@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/VoxUp.png"></a>
 </p>
+
 <p align="center">
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
@@ -16,7 +17,22 @@
 
 VoxUp is a non-profit digital initiative to uplift and applause the individuals who had created a difference in our society. This platform hosts all the enrinching and impactful stories by storytellers of india documented in local languages!!.🚀
 
+
 The main effort is to empower and upgrade digital storytelling skills along with sharing preserved knowledge which is fading away. We aim to create an alternate revenue stream in this crisis for each story that's hosted and promote them by remuneration in this Covid scenario where tourism industry was deeply affected.
+
+
+<h2>🙌Join Here</h2>
+
+ I welcome all the open source enthusiasts who wants to join their hands in supporting this cause. Be a part of this initiative by applying your technical skills and all you had got as a developer. 
+ 
+**Tech Stacks - HTML, CSS, JS**
+
+Contributors are expected to join this Discord Channel here for the project discussion : 
+
+
+<h2>⌛Link To The Website</h2>
+
+https://prathimacode-hub.github.io/VoxUp/
 
 
 <h2>🛠Templates to Follow</h2>
@@ -25,7 +41,7 @@ The main effort is to empower and upgrade digital storytelling skills along with
 - [Bug Report](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/issue_template/bug_report.md)
 - [Pull Request](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/pullrequest_template.md)
 
-**Note** : One should follow these templates while creating a new issue or pull request. 
+**Note** : One should follow these templates while creating a new issue or pull request.
 
 
 <h2>👨‍💻 Workflow:</h2>
@@ -50,7 +66,7 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/VoxU
 
 <h2>📝 License</h2>  
 
-This project follows the [MIT License](https://github.com/prathimacode-hub/VoxUp/blob/main/LICENSE).
+This project follows the [Mozilla Public License](https://github.com/prathimacode-hub/VoxUp/blob/main/LICENSE).
 
 
 <h2>🙂 Project Admin</h2>
