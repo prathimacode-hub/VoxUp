@@ -35,7 +35,14 @@ The main effort is to empower and upgrade digital storytelling skills along with
 
  I welcome all the open source enthusiasts who wants to join their hands in supporting this cause. Be a part of this initiative by applying your technical skills and all you had got as a developer. 
  
-**Tech Stacks - HTML, CSS, JS**
+
+<h2>🔑Tech Stacks</h2>
+
+
+<p align="left">
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/HTML%20CSS%20JS.jpeg" width=180px height=100px>
+</p>
+
 
 Contributors are expected to join this Discord Channel here for the project discussion : 
 
@@ -43,7 +50,7 @@ Contributors are expected to join this Discord Channel here for the project disc
 When raising an issue, do make sure to mention the kind of feature, feature title, short description of the feature and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/prathimacode-hub/IoT-Spot/blob/main/CONTRIBUTING.md)👩‍💻
+Go through the contributing guidelines [here](https://github.com/prathimacode-hub/IoT-Spot/blob/main/CONTRIBUTING.md).
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
