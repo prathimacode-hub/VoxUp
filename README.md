@@ -18,7 +18,17 @@
 VoxUp is a non-profit digital initiative to uplift and applause the individuals who had created a difference in our society. This platform hosts all the enrinching and impactful stories by storytellers of india documented in local languages!!.🚀
 
 
+<p align="center">
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/StoryTelling.gif"></a>
+</p>
+
+
 The main effort is to empower and upgrade digital storytelling skills along with sharing preserved knowledge which is fading away. We aim to create an alternate revenue stream in this crisis for each story that's hosted and promote them by remuneration in this Covid scenario where tourism industry was deeply affected.
+
+
+<p align="center">
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/Storyteller.gif" width=480px height=250px>
+</p>
 
 
 <h2>🙌Join Here</h2>
@@ -32,7 +42,8 @@ Contributors are expected to join this Discord Channel here for the project disc
 
 When raising an issue, do make sure to mention the kind of feature, feature title, short description of the feature and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
-If you want to work on this unique project and share it with the world, you can do that here. Go through the contributing guidelines [here](https://github.com/prathimacode-hub/IoT-Spot/blob/main/CONTRIBUTING.md)👩‍💻
+If you want to work on this unique project and share it with the world, you can do that here. 
+Go through the contributing guidelines [here](https://github.com/prathimacode-hub/IoT-Spot/blob/main/CONTRIBUTING.md)👩‍💻
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
