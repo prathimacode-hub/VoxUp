@@ -19,7 +19,7 @@ VoxUp is a non-profit digital initiative to uplift and applause the individuals 
 
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/StoryTelling.gif"></a>
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/StoryTelling.gif" width=380px height=220px>
 </p>
 
 
@@ -27,7 +27,7 @@ The main effort is to empower and upgrade digital storytelling skills along with
 
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/Storyteller.gif" width=480px height=250px>
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/Storyteller.gif" width=380px height=220px>
 </p>
 
 
