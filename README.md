@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to VoxUp 👋🚗</h1>
+  <h1>Welcome to VoxUp 👋🎙</h1>
   <h3>Website for VoxUp Project Repo: <a href="https://prathimacode-hub.github.io/VoxUp/">Click Here!</a></h3>
 </div>
 
