@@ -1,4 +1,7 @@
-# Welcome to VoxUp 👋
+<div align="center">
+  <h1>Welcome to VoxUp 👋🚗</h1>
+  <h3>Website for VoxUp Project Repo: <a href="https://prathimacode-hub.github.io/VoxUp/">Click Here!</a></h3>
+</div>
 
 <p align="center">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/VoxUp.png"></a>
@@ -13,7 +16,7 @@
 </p> 
 
 
-<h2>📌Repository</h2>
+## 📌 Repository
 
 VoxUp is a non-profit digital initiative to uplift and applause the individuals who had created a difference in our society. This platform hosts all the enrinching and impactful stories by storytellers of india documented in local languages!!.🚀
 
@@ -31,36 +34,27 @@ The main effort is to empower and upgrade digital storytelling skills along with
 </p>
 
 
-<h2>🙌Join Here</h2>
+## 🙌 Join Here
 
  I welcome all the open source enthusiasts who wants to join their hands in supporting this cause. Be a part of this initiative by applying your technical skills and all you had got as a developer. 
  
 
-<h2>🔑Tech Stacks</h2>
-
+## 🔑 Tech Stacks
 
 <p align="left">
 <img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/HTML%20CSS%20JS.jpeg" width=180px height=100px>
 </p>
 
 
-Contributors are expected to join this Discord Channel here for the project discussion : 
-
-
 When raising an issue, do make sure to mention the kind of feature, feature title, short description of the feature and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/prathimacode-hub/IoT-Spot/blob/main/CONTRIBUTING.md).
+Go through the contributing guidelines [here](https://github.com/prathimacode-hub/VoxUp/blob/main/CONTRIBUTING.md).
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-<h2>⌛Link To The Website</h2>
-
-https://prathimacode-hub.github.io/VoxUp/
-
-
-<h2>🛠Templates to Follow</h2>
+## 🛠 Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/issue_template/bug_report.md)
@@ -69,7 +63,7 @@ https://prathimacode-hub.github.io/VoxUp/
 **Note** : One should follow these templates while creating a new issue or pull request.
 
 
-<h2>👨‍💻 Workflow:</h2>
+## 👨‍💻 Workflow:
 
 - Fork the repository
 
@@ -84,34 +78,20 @@ https://prathimacode-hub.github.io/VoxUp/
 > print("Start contributing for VoxUp")
 
 
-<h2>👍OpenSource Program</h2>
-
-This project was a part of these open source programs.
-
+ ## ❄️ Open Source Programs
+ 
 <table>
 <tr>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Script%20Winter%20Of%20Code/Script%20Winter%20Of%20Code.jpg" width=80px height=60px /></a>
+ <td align="center">
+<a href="https://swoc.tech/"><img src="" width=100px height=100px /><br /><sub><b>Script Winter Of Code 2021</b></sub></a>
  </td>
 </tr>
 </table>
 
 
-<h2> 📊 Points Category</h2>
+## ✨ Hall Of Fame   
 
-| Level of Issues | Points Allocated |
-| - | - |
-| Beginner | 10 Points 🔰|
-| Easy | 20 Points 🌱|
-| Medium | 30 Points 🌕|
-| Hard | 40 Points 🔥 |
-
-You can check out the project leaderboard here : [SWOC Leaderboard](https://github.com/prathimacode-hub/VoxUp/blob/main/.github/swoc_leaderboard.md)
-
-
-<h2>✨Hall Of Fame</h2>   
-
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+Thanks go to these Wonderful People. Contributions of any kind are welcome!🚀 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -126,25 +106,28 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-<h2>📜 Code Of Conduct</h2>
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/VoxUp/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2>📝 License</h2>  
+## 📝 License
 
 This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/VoxUp/blob/main/LICENSE).
 
 
-<h2>🙂 Project Admin</h2>
+## 😎 Project Admin
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+  </tr>
+</table>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-<h2>⭐Give this Project a Star</h2>
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -153,12 +136,12 @@ If you liked working on this project, do ⭐ and share this repository.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
 <!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td> -->
+</td> 
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-<h2>📬 Contact</h2>
+## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
